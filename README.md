@@ -1,3 +1,6 @@
+NOSÉ PORQUE NO SE VE, EN EL LOCALHOST SE VE PERFECTAMENTE.
+https://cristian246816.github.io/adopta-perrito/
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
